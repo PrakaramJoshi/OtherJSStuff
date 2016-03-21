@@ -1,0 +1,18 @@
+{
+  "name": "otherjsstuff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "DashboardLauncher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "commander": "^2.9.0",
+    "lodash": "^4.6.1",
+    "moment": "^2.12.0",
+    "prompt": "^1.0.0"
+  }
+}
